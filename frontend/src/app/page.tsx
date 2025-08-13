@@ -21,7 +21,7 @@ export default function LoginPage() {
       <div className="text-center p-8 max-w-xs">
         <img
           src="/logo.png"
-          className="mx-auto w-40 h-40 rounded-full mb-4 drop-shadow-lg"
+          className="mx-auto w-40 h-40 mb-4 drop-shadow-lg"
           alt="Logo"
         />
         <br />
