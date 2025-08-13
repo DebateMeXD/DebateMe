@@ -1,5 +1,3 @@
-import Footer from "@/components/Footer";
-
 export default function RootLayout({
   children,
 }: {
@@ -9,7 +7,6 @@ export default function RootLayout({
     <>
       {children}
       <div className="py-10" />
-      <Footer />
     </>
   );
 }
